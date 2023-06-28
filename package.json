@@ -23,6 +23,8 @@
   "author": "Alfa.",
   "license": "MIT",
   "dependencies": {
+
+   " npm outdated | sed '1d; s/ .*/@latest/' | xargs npm i --save",
     "@adiwajshing/baileys": "^4.1.0",
     "@adiwajshing/keyed-db": "^0.2.4",
     "awesome-phonenumber": "^2.64.0",
